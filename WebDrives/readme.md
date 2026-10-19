@@ -1,0 +1,1 @@
+Aby widzieć pliki dyski sieciowe jako dyski w Windows trzeba zainstalować rclone!
